@@ -71,6 +71,10 @@ At this step, an Excel report file is automatically downloaded and the Email vie
 
 ![](https://github.com/user-attachments/assets/485f3148-4d2c-440c-8ccc-d0d2a16cb7f4)
 
+To view the VBA code, click Alt + F11 to view. Here is the picture of the VBA code I created.
+
+![image](https://github.com/user-attachments/assets/56d3f460-ecd4-470c-a5ae-7aa6e0455d38)
+
 ---
 
 ## 📄 License
