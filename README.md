@@ -36,8 +36,8 @@ All data used is **synthetically generated** to reflect the typical WMS reports 
 ## 📁 File Structure
 
 - `Inventory daily report.xlsm` – Main Excel file with raw data, report template, and embedded VBA macros
-  - **Sheet1 & Sheet2**: Simulated WMS raw data views, with Sheet 1 containing raw data of the inventory quantity and statuses, and Sheet 2 containing a transaction-level view showing inventory activities.
-  - **Sheet4**: Formatted report layout (final output)
+- **Sheet1 & Sheet2**: Simulated WMS raw data views, with Sheet 1 containing raw data of the inventory quantity and statuses, and Sheet 2 containing a transaction-level view showing inventory activities.
+- **Sheet4**: Formatted report layout (final output)
   
 ## 🔧 Main VBA Tasks
 
