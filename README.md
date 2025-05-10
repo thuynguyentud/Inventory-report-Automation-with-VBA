@@ -45,20 +45,13 @@ All data used is **synthetically generated** to reflect the typical WMS reports 
 - Cross-sheet calculations
 - Formatting output columns (thousands separator, no decimals)
 - Exporting the report as an `.xlsx` file
-- Preparing and displaying an Outlook email draft with recipient list and report attached
+- Preparing and displaying an Outlook email draft with a recipient list and report attached
 
 ## 📈 Outcome
 
-- Manual steps reduced
-- Reporting consistency improved
-- Reusable automation for future reporting needs
-
-## 🖼 Sample Screenshots
-
-> Add screenshots of:
-> - Raw WMS data sheets
-> - The final report layout
-> - The email draft with Excel attachment
+- Reduced mental load and human error
+- Improved consistency and formatting
+- Reusable template for similar reporting cases
 
 ## 📬 How to Use
 1. Open the file `Inventory daily report.xlsm`, view sheet 4 `Report_template`
