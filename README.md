@@ -71,9 +71,16 @@ At this step, an Excel report file is automatically downloaded and the Email vie
 
 ![](https://github.com/user-attachments/assets/485f3148-4d2c-440c-8ccc-d0d2a16cb7f4)
 
-📄 License & Attribution
-This project was developed in 2022 by Thu Thuy Nguyen as part of a logistics automation initiative focused on streamlining WMS reporting in FMCG warehouses.
+---
 
-All code and assets in this repository are released under the MIT License, which allows free use, modification, and redistribution, with proper attribution.
+## 📄 License
 
-If you use or adapt this project, please cite the original repository.
+This project is licensed under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, and distribute this code, provided that proper attribution is given.
+
+> © 2022 Thu Thuy Nguyen.  
+> If you use or adapt this project, please cite the original repository and author.
+
+---
+
