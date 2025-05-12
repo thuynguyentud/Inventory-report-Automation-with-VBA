@@ -77,11 +77,7 @@ To view the VBA code, click Alt + F11 to view. Here is the picture of the VBA co
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, copy, modify, merge, publish, and distribute this code, provided that proper attribution is given.
+## 📄 Citation
 
 > © 2022 Thu Thuy Nguyen.  
 > If you use or adapt this project, please cite the original repository and author.
